@@ -1,0 +1,115 @@
+
+.left{
+    background-color: rgb(232, 228, 228);
+    min-height: 1400px;
+    width: 70%;
+    float: right;
+}
+.right{
+    background-color:  rgb(231, 196, 196);
+    min-height: 1400px;
+    width: 30%;
+    float: left;
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 2em 4em;
+}
+.header{
+    border: 0in;
+    background-color: rgb(231, 196, 196);
+    margin: 0em;
+}
+.name{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+    padding-top: 1em;
+}
+.course{
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: lighter;
+    font-style:italic;
+    margin-top: -1em;
+}
+.title{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 1em;
+    margin-top: 2em;
+    
+}
+.editnav{
+    font-size: 15px;
+    font-family:monospace;
+    font-weight: lighter;
+    font-style: italic;
+}
+ul.loc{
+    list-style-image: url('address.png');
+    text-indent: 0; 
+    font-weight: bold;
+
+    letter-spacing: 2px;
+    margin-top: .5em;
+
+}
+ul.email{
+    list-style-image: url('email.png');
+    text-indent: 0; 
+    padding-top: 0%;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: .5em;
+}
+ul.phone{
+    list-style-image: url('phone.png');
+    padding-top: 0%;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: .5em;
+}
+.level{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+}
+.ctrack{
+    font-size: 15px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.school{
+    font-size: 15px;
+    font-family: monospace;
+    font-weight: lighter;
+}
+.year{
+    font-size: 15px;
+    font-family: monospace;
+    font-style: italic;
+}
+.first{
+    font-family: monospace;
+    font-size: 15px;
+    font-style: bold;
+    list-style: none;
+}
+.second{
+    font-family: monospace;
+    font-size: 15px;
+    font-style: italic;
+}
+.taon{
+    list-style: none;
+    font-size: larger;
+    font-weight: bold;
+}
